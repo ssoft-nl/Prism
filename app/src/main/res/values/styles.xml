@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@android:style/Theme.Holo">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Text" parent="@android:style/TextAppearance.Medium">
+    </style>
+    <style name="Text.Head">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

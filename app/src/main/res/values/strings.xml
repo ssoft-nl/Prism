@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prism</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_providers">Providers</string>
+
+    <string name="title_recent_notifications">Recent notifications</string>
+    <string name="title_activity_provider">Providers</string>
+</resources>
